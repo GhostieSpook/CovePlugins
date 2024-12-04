@@ -13,7 +13,7 @@ namespace StaticRain
         internal RainCloud docksRain;
         internal RainCloud lakeRain;
 
-        public Vector3 docksPosition = new Vector3(151f, 42, 1.5f);
+        public Vector3 docksPosition = new Vector3(18.741f, 42, -86.938f);
         public Vector3 lakePosition = new Vector3(22.5f, 42, 13);
 
         public RainCloud spawnRainCloud()
